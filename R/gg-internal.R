@@ -9,7 +9,7 @@
                            #'expand_default', ## REMOVED
                            'plot_theme',
                            'element_render',
-'message_wrap',#REMOVED
+#'message_wrap', ##REMOVED
                            'set_last_plot','make_labels','build_guides','is.zero','add_ggplot','labelGrob',
                            'is.layer','is.facet','is.Coord','GeomSegment',
                            '.element_tree',
